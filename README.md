@@ -1,0 +1,3 @@
+# SeChat
+Solana HackDay Project
+
