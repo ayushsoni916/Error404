@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139207003780",
+    "project_id": "error-404-d7a92",
+    "storage_bucket": "error-404-d7a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139207003780:android:df13c33c7b32f646a9bcd1",
+        "android_client_info": {
+          "package_name": "in.ayush.error404"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139207003780-r3rrh4ahhar9bqlelluhpnb94oresvub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5s_yFS7eMvpp9k9zhAG-2A8N7ekoTbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139207003780-r3rrh4ahhar9bqlelluhpnb94oresvub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
